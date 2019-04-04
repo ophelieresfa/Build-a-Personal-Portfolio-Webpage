@@ -31,3 +31,23 @@ body {
   padding: 50px;
   font-weight: bold;
 }
+
+#welcome-section {
+  padding-top: 100px;
+  background-color: #91A398;
+  display: block;
+  min-height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20%;
+  font-size: 40px;
+}
+
+#welcome-section p {
+  text-align: center;
+  font-size: 20px;
+  color: #33605A;
+  text-decoration: underline;
+}
