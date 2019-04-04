@@ -83,3 +83,30 @@ h2 {
   border: 5px solid #94a299;
   border-radius: 5px;
 }
+
+#profile {
+  min-height: 100vh;
+  background-color: #33605A;
+  margin-top: -20px;
+  text-align: center;
+}
+
+#profile a {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+#profile p {
+  border: 3px solid black;
+  border-radius:5px;
+  background-color: #E9E0D1;
+  color: #070001;
+  font-weight: bold;
+  font-size: 22px;
+  width: 150px;
+  padding: 5px;
+  display: inline-block;
+  margin-top: 150px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
