@@ -112,5 +112,16 @@ h2 {
 }
 
 @media screen and (max-width:775px) {
-
+	#navbar {
+		text-align: center;
+		height: 175px;
+	}
+	
+	#navbar ul {
+		display: block;
+	}
+	
+	#navbar li {
+		padding: 10px;
+	} 
 }
